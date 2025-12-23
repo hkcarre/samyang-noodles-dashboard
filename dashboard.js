@@ -1,5 +1,5 @@
 // ============================================================================
-// Samyang MARKET INTELLIGENCE DASHBOARD - PROFESSIONAL ANALYSIS
+// ABC NOODLE CO MARKET INTELLIGENCE DASHBOARD - PROFESSIONAL ANALYSIS
 // Complete with Deep-Dive Insights and Actionable Recommendations
 // ============================================================================
 
@@ -967,4 +967,3 @@ function renderRecommendations() {
             </div>
         `);
 }
-
